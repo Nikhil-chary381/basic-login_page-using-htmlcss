@@ -1,0 +1,109 @@
+body{
+    background-image: url("https://www.color-meanings.com/wp-content/uploads/2022/01/blue-white-abstract-pattern-1024x653.png");
+    background-size: cover;
+}
+.box{
+    background-image:url("https://www.free-background.com/wp-content/uploads/2023/02/white-abstract-wallpaper_23-2148830026.jpg");
+    height:550px;
+    background-size:cover;
+    width:28%;
+    margin-left:540px;
+    margin-top:100px;
+    padding-top:2px;
+    border-radius:10px;
+}
+h2{
+    text-align: center;
+}
+table{
+    width: 90%;
+    margin-left:40px;
+    padding-bottom: 0%;
+}
+tr{
+    height:1px;
+}
+td{
+    font-size:large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:50px;
+    text-align:left;
+    color:rgb(37, 126, 37);
+    font-weight: bolder;
+}
+
+input{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    border-bottom:1px solid black;
+    font-size:medium;
+}
+.side-heading{
+    margin-top:1px;
+}
+
+.forgot{
+    text-align:right;
+    padding-right:20px;
+    color:red;
+    font-size: medium;
+    border:none;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:600;
+
+}
+button{
+    margin-left:31%;
+    background-color:rgb(38, 219, 219);
+    width:165px;
+    border:none;
+    height:35px;
+    border-radius:15px;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.8;
+}
+a:hover{
+    color:green;
+}
+#or{
+    margin-left:38%;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+.icons img{
+    width: 48px;
+    height: 38px;
+}
+.not{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:3px;
+    font-family:inherit;
+}
+a{
+    text-decoration: none;
+}
+.not h4{
+    font-family:initial;
+    color: red;
+    text-decoration: none;
+}
+h4:hover{
+    color: green;
+}
+
+
+
